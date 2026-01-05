@@ -33,8 +33,5 @@
   <img src="https://img.shields.io/badge/QQ_Group-879059380-3EB2FF?style=for-the-badge&logo=tencentqq&logoColor=white" />
 </a>
 </div>
-<br/>
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Banansky-Studio&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </div>
