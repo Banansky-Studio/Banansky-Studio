@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Banansky-Studio/Banansky-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/user-attachments/assets/72e04202-20f0-4a19-9891-0d2f55986af3" width="150" />
 
-Here are some ideas to get you started:
+# Hi there, I'm Banansky! 🍌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Director's Eye. Developer's Mind.**
+
+🎬 Film Director turned Indie Developer based in Shanghai.
+🤖 Building native macOS apps with **Gemini 3.0**.
+
+---
+
+### 🛠️ What I'm Working On
+- 🦎 **CatchBan [<sup>1</sup>](https://github.com/Banansky-Studio/CatchBan)**: A native, minimalist video downloader for macOS.
+- 🎨 **AI Workflow**: Exploring ComfyUI, MJ, Nano banana, Runway, Veo 3，Sora, HeyGen and Suno.
+
+### 📫 Connect with Me
+
+<a href="https://space.bilibili.com/106338395">
+  <img src="https://img.shields.io/badge/Bilibili-Banansky-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@BananskyStudio">
+  <img src="https://img.shields.io/badge/YouTube-BananskyStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/BananskyStudio">
+  <img src="https://img.shields.io/badge/X (Twitter)-@BananskyStudio-black?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://github.com/Banansky-Studio/CatchBan">
+  <img src="https://img.shields.io/badge/QQ_Group-879059380-3EB2FF?style=for-the-badge&logo=tencentqq&logoColor=white" />
+</a>
+</div>
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Banansky-Studio&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</div>
