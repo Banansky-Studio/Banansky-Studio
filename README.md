@@ -16,22 +16,20 @@
 - 🎨 **AI Workflow**: Exploring ComfyUI, MJ, Nano banana, Runway, Veo 3，Sora, HeyGen and Suno.
 
 ### 📫 Connect with Me
-
+<!-- B站 -->
 <a href="https://space.bilibili.com/106338395">
   <img src="https://img.shields.io/badge/Bilibili-Banansky-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
 </a>
-
+<!-- YouTube -->
 <a href="https://youtube.com/@BananskyStudio">
   <img src="https://img.shields.io/badge/YouTube-BananskyStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
+<!-- Twitter/X -->
 <a href="https://twitter.com/BananskyStudio">
   <img src="https://img.shields.io/badge/X (Twitter)-@BananskyStudio-black?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
+<!-- QQ群 -->
 <a href="https://github.com/Banansky-Studio/CatchBan">
   <img src="https://img.shields.io/badge/QQ_Group-879059380-3EB2FF?style=for-the-badge&logo=tencentqq&logoColor=white" />
 </a>
-</div>
-<img src="https://github-readme-stats.vercel.app/api?username=Banansky-Studio&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </div>
