@@ -4,34 +4,38 @@
 
 # Hi there, I'm Banansky! 🍌
 
-**Director's Eye. Developer's Mind.**
+  ### Director's Eye. Developer's Mind.
+  **Code like a dev, Direct like a pro.**
 
-Film Director turned Indie Developer.   
-Building native macOS tools and AI-driven creative workflows that bridge professional filmmaking intuition with computational power.
+  **20 Years in Film & Ad | Former Creative Director @ TBWA**<br>
+  I have directed over 200 commercial projects for top-tier global brands including *Mercedes-Benz, BMW, Apple, Huawei, Adidas, and McDonald's*, alongside multiple award-winning short films. Now, crossing the boundary from the film set to the codebase. I am building native macOS tools and AI-driven creative workflows to render a director's intuition through computational power.<br><br>
+  *20年影视广告老斯基，前 TBWA 创意总监。曾执导超200部商业广告和多部获奖短片。如今从片场调度走向底层代码，致力于用 AI 算力渲染导演意志。*
 
 </div>
+
 ---
 
 ## 🛠 What We Are Building / 产品矩阵
 
 ### 🚀 [CatchBan](https://catchban.com)
-A native, premium macOS workspace for creators to collect, manage, preview, and process video assets seamlessly. 
-*专为创作者打造的 macOS 原生资产管理与处理工作台，让灵感素材触手可及。*
+A native macOS workspace for video references & source assets. Capture, organize, preview, and prep your footage in one seamless flow.<br>
+*专为创作者打造的视听素材工作台。一站解决素材采集、管理、预览与轻创作工具，轻松实现捕获灵感而后掌控。*
 - **Status:** v2.0 Iterating
 - **Tech Stack:** Swift, Xcode Native, Node.js
 
 ### 🎬 Xtion (Coming Soon)
-An AI-powered filmmaking and commercial production system designed to automate the transition from brand briefs to production-grade film storyboards.
-*全新一代 AI 影视广告创作系统，致力于将品牌 Brief 自动转化为工业级导演分镜与生产脚本。*
+An AI creation system built for commercial filmmaking. It transforms abstract brand briefs and complex production needs into executable, collaborative, and production-grade film blueprints through a structured AI workflow.<br>
+*Xtion 是全新一代专为影视广告打造的 AI 创作系统。它通过结构化的 AI 工作流，将抽象的品牌 Brief 与复杂的制作需求，精准转化为可执行、可协作、可落地的工业级影片蓝图。*
 - **Status:** In Active Development
-- **Focus:** LLM Workflow & Storyboard AI Generation
+- **Workflow:** Brief ➔ Concept Lock ➔ Film Blueprint ➔ Production Pack ➔ AI Prompts
+- **Focus:** Structured Artifacts, Storyboard Logic & Continuity Control
 
 ---
 
 ### 📫 Connect with Me / 找到我
 <!-- B站 -->
 <a href="https://space.bilibili.com/106338395">
-  <img src="https://img.shields.io/badge/Bilibili-Banansky-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bilibili-Banansky-FFD700?style=for-the-badge&logo=bilibili&logoColor=white" />
 </a>
 <!-- YouTube -->
 <a href="https://youtube.com/@BananskyStudio">
@@ -39,6 +43,6 @@ An AI-powered filmmaking and commercial production system designed to automate t
 </a>
 <!-- Twitter/X -->
 <a href="https://twitter.com/BananskyStudio">
-  <img src="https://img.shields.io/badge/X (Twitter)-@BananskyStudio-black?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X (Twitter)-@BananskyStudio-blue?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 </div>
