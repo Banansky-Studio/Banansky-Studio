@@ -6,16 +6,29 @@
 
 **Director's Eye. Developer's Mind.**
 
-🎬 Film Director turned Indie Developer based in Shanghai.
-🤖 Building native macOS apps with **Gemini 3.0**.
+Film Director turned Indie Developer.   
+Building native macOS tools and AI-driven creative workflows that bridge professional filmmaking intuition with computational power.
+
+</div>
+---
+
+## 🛠 What We Are Building / 产品矩阵
+
+### 🚀 [CatchBan](https://catchban.com)
+A native, premium macOS workspace for creators to collect, manage, preview, and process video assets seamlessly. 
+*专为创作者打造的 macOS 原生资产管理与处理工作台，让灵感素材触手可及。*
+- **Status:** v2.0 Iterating
+- **Tech Stack:** Swift, Xcode Native, Node.js
+
+### 🎬 Xtion (Coming Soon)
+An AI-powered filmmaking and commercial production system designed to automate the transition from brand briefs to production-grade film storyboards.
+*全新一代 AI 影视广告创作系统，致力于将品牌 Brief 自动转化为工业级导演分镜与生产脚本。*
+- **Status:** In Active Development
+- **Focus:** LLM Workflow & Storyboard AI Generation
 
 ---
 
-### 🛠️ What I'm Working On
-- 🦎 **CatchBan [<sup>1</sup>](https://github.com/Banansky-Studio/CatchBan)**: A native, minimalist video downloader for macOS.
-- 🎨 **AI Workflow**: Exploring ComfyUI, MJ, Nano banana, Runway, Veo 3，Sora, HeyGen and Suno.
-
-### 📫 Connect with Me
+### 📫 Connect with Me / 找到我
 <!-- B站 -->
 <a href="https://space.bilibili.com/106338395">
   <img src="https://img.shields.io/badge/Bilibili-Banansky-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
