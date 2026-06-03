@@ -19,7 +19,7 @@
 
 ### 🚀 [CatchBan](https://catchban.com)
 A native macOS workspace for video references & source assets. Capture, organize, preview, and prep your footage in one seamless flow.<br>
-*专为创作者打造的视听素材工作台。一站解决素材采集、管理、预览与轻创作工具，轻松实现捕获灵感而后掌控。*
+*专为创作者打造的视频素材工作台。一站解决素材采集、管理、预览与轻创作工具，轻松实现捕获灵感而后掌控。*
 - **Status:** v2.0 Iterating
 - **Tech Stack:** Swift, Xcode Native, Node.js
 
