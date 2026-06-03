@@ -28,8 +28,4 @@
 <a href="https://twitter.com/BananskyStudio">
   <img src="https://img.shields.io/badge/X (Twitter)-@BananskyStudio-black?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<!-- QQ群 -->
-<a href="https://github.com/Banansky-Studio/CatchBan">
-  <img src="https://img.shields.io/badge/QQ_Group-879059380-3EB2FF?style=for-the-badge&logo=tencentqq&logoColor=white" />
-</a>
 </div>
