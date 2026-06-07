@@ -7,9 +7,9 @@
   ### Director's Eye. Developer's Mind.
   **Code like a dev, Direct like a pro.**
 
-  **20 Years in Film & Ad | Former Creative Director @ TBWA**<br>
+  **20 Years in Film & Ad | Former Creative Director @ TBWA(International 4A Advertising Agency)**<br>
   I have directed over 200 commercial projects for top-tier global brands including *Mercedes-Benz, BMW, Apple, Huawei, Adidas, and McDonald's*, alongside multiple award-winning short films. Now, crossing the boundary from the film set to the codebase. I am building native macOS tools and AI-driven creative workflows to render a director's intuition through computational power.<br><br>
-  *20年影视广告老斯基，前 TBWA 创意总监。曾执导超200部商业广告和多部获奖短片。如今从片场调度走向底层代码，致力于用 AI 算力渲染导演意志。*
+  *20年影视广告老斯基，前国际4A广告公司 TBWA 创意总监。曾执导超200部商业广告和多部获奖短片。如今从片场调度走向底层代码，致力于用 AI 算力渲染导演意志。*
 
 </div>
 
